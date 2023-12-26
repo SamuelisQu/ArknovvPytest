@@ -1,0 +1,6 @@
+
+======进入test_birthday接口，修改生日=====
+
+=======test_birthday接口执行结束
+
+======个人信息场景Test_usersystem类用例执行完成======

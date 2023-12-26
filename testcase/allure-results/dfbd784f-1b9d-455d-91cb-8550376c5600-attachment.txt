@@ -1,0 +1,11 @@
+
+======Start登录场景TestUserTasks类用例执行开始======
+
+======setup_class前置方法global参数提取======
+
+======setup_class前置方法global参数提取完成======
+
+======进入testlogin接口，获取短信验证码=====
+send接口返回值：{"code": 0, "msg": "操作成功", "data": null}
+
+======testlogin接口结束=====

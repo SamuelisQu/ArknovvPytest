@@ -1,0 +1,47 @@
+{
+  "name": "test_birthday",
+  "status": "passed",
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "d6efe986-ce9b-4cbc-badc-ce4646cebf7e-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "start": 1703236495644,
+  "stop": 1703236495719,
+  "uuid": "1ecbb79a-ed6c-4af5-8fee-5aee3dca18f7",
+  "historyId": "e6ca2300fc6a20d24c02a83cd6b494d5",
+  "testCaseId": "29acc2b9d2efa4a2fe28e1876a70b828",
+  "fullName": "test_b_usersystem.Test_usersystem#test_birthday",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "test_b_usersystem"
+    },
+    {
+      "name": "subSuite",
+      "value": "Test_usersystem"
+    },
+    {
+      "name": "host",
+      "value": "QuWZ-PC"
+    },
+    {
+      "name": "thread",
+      "value": "1780-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_b_usersystem"
+    }
+  ]
+}

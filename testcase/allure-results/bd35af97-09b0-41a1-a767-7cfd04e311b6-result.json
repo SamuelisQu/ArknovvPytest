@@ -1,0 +1,47 @@
+{
+  "name": "test_codelogin",
+  "status": "passed",
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "100920b4-3034-4545-b22f-01642546c6bb-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "start": 1703236495450,
+  "stop": 1703236495535,
+  "uuid": "d593b9bb-50d3-4416-9522-9b6a6180d4a0",
+  "historyId": "7ceb883d607f28e648cf8dc4a8fb4949",
+  "testCaseId": "6ba7c8b97d4acfbc7edb0e27e0499556",
+  "fullName": "test_a_codeloginToken.TestUserTasks#test_codelogin",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "test_a_codeloginToken"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestUserTasks"
+    },
+    {
+      "name": "host",
+      "value": "QuWZ-PC"
+    },
+    {
+      "name": "thread",
+      "value": "1780-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_a_codeloginToken"
+    }
+  ]
+}

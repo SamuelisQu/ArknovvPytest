@@ -1,0 +1,21 @@
+[2023-12-25 23:20:51,547][MainThread:17560][task_id:info]    [logclass.py:56][INFO] : ========#进入 test_a_codeloginToken.py=======
+[2023-12-25 23:20:51,548][MainThread:17560][task_id:info]    [logclass.py:56][INFO] : 
+======Start个人信息场景Test_usersystem类用例执行开始======
+[2023-12-25 23:20:51,548][MainThread:17560][task_id:info]    [logclass.py:56][INFO] : 
+======setup_class前置方法global参数提取======
+[2023-12-25 23:20:51,555][MainThread:17560][task_id:info]    [logclass.py:56][INFO] : 
+======setup_class前置方法global参数提取完成======
+[2023-12-25 23:20:51,556][MainThread:17560][task_id:info]    [logclass.py:56][INFO] : 
+======进入test_usersid接口，获取个人信息=====
+[2023-12-25 23:20:51,648][MainThread:17560][task_id:info]    [logclass.py:56][INFO] : codelogin接口返回值：
+{"code": 0, "msg": "操作成功", "data": {"id": null, "userId": "1712393544376913920", "phone": "15011325247", "userName": "探索者LYA929", "createTime": "2023-10-12T17:03:30.37", "regionName": "北京市,朝阳区", "avatar": "http://101.126.47.88:9213/fileProject/profile/init.jpeg", "birthday": "1996-12-24", "gender": 1}}
+[2023-12-25 23:20:51,649][MainThread:17560][task_id:info]    [logclass.py:56][INFO] : 
+=======test_usersid接口执行结束
+[2023-12-25 23:20:51,651][MainThread:17560][task_id:info]    [logclass.py:56][INFO] : 
+======进入test_birthday接口，修改生日=====
+[2023-12-25 23:20:51,730][MainThread:17560][task_id:info]    [logclass.py:56][INFO] : codelogin接口返回值：
+{"code": 1055, "msg": "今日已修改,请明日再试"}
+[2023-12-25 23:20:51,730][MainThread:17560][task_id:info]    [logclass.py:56][INFO] : 
+=======test_birthday接口执行结束
+[2023-12-25 23:20:51,731][MainThread:17560][task_id:info]    [logclass.py:56][INFO] : 
+======Over个人信息场景Test_usersystem类用例执行完成======

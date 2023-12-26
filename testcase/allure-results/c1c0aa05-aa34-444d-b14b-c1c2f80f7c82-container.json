@@ -1,0 +1,25 @@
+{
+  "uuid": "a2e9d07b-6f66-431f-96d3-78fda1c6ba81",
+  "children": [
+    "afa07a0e-5720-48ce-9669-019e044622f1",
+    "d593b9bb-50d3-4416-9522-9b6a6180d4a0"
+  ],
+  "befores": [
+    {
+      "name": "_xunit_setup_class_fixture_TestUserTasks",
+      "status": "passed",
+      "start": 1703236495326,
+      "stop": 1703236495336
+    }
+  ],
+  "afters": [
+    {
+      "name": "_xunit_setup_class_fixture_TestUserTasks::0",
+      "status": "passed",
+      "start": 1703236495535,
+      "stop": 1703236495536
+    }
+  ],
+  "start": 1703236495326,
+  "stop": 1703236495536
+}

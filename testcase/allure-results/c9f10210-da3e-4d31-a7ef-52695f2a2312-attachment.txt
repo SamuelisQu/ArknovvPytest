@@ -1,0 +1,10 @@
+
+======个人信息场景Test_usersystem类用例执行开始======
+
+======setup_class前置方法global参数提取======
+
+======setup_class前置方法global参数提取完成======
+
+======进入test_usersid接口，获取个人信息=====
+
+=======test_usersid接口执行结束

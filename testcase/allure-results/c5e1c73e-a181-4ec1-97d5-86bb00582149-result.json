@@ -1,0 +1,47 @@
+{
+  "name": "test_usersid",
+  "status": "passed",
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "c9f10210-da3e-4d31-a7ef-52695f2a2312-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "start": 1703234739940,
+  "stop": 1703234740005,
+  "uuid": "eb3969db-58a2-402e-9883-5b64abfdf751",
+  "historyId": "4c8a9a860a8db6dc131852984b2b7b4c",
+  "testCaseId": "d87152f00e5daadfd3b6cf5e7e05115c",
+  "fullName": "test_b_usersystem.Test_usersystem#test_usersid",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "test_b_usersystem"
+    },
+    {
+      "name": "subSuite",
+      "value": "Test_usersystem"
+    },
+    {
+      "name": "host",
+      "value": "QuWZ-PC"
+    },
+    {
+      "name": "thread",
+      "value": "10944-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_b_usersystem"
+    }
+  ]
+}
